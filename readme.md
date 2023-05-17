@@ -89,3 +89,6 @@ mainwindow窗口
 sciencepage
 
 ![image](https://github.com/wustghj/markdownPhotos/blob/main/images/sciencepage.png?raw=true).
+
+#### 致谢
+https://github.com/EMILIIIIA/ExpressionCalculator
