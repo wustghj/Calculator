@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>Options.png</file>
+        <file>PinFront.png</file>
+        <file>ShowHistory.png</file>
+        <file>History.png</file>
+        <file>../../../../../../../ico/upPin.png</file>
+        <file>upPin.png</file>
+    </qresource>
+    <qresource prefix="/qt/etc">
+        <file>qt.conf</file>
+    </qresource>
+</RCC>
